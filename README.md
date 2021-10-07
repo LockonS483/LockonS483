@@ -22,9 +22,9 @@
 <h1> </h1>
 <p align="center">
   <samp>
-    > Full stack developer <br>
-    > Interested in low-level programming and implementation of languages <br>
-    > Musician and gamer <br>
+    > Full stack developer <<br>
+    > Interested in low-level programming and implementation of languages <<br>
+    > Musician and gamer <<br>
     <br>
     <img alt="githubstats" src="https://github-readme-stats.vercel.app/api?username=LockonS483">
   </samp>
