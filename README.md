@@ -25,7 +25,7 @@
 <h1> </h1>
 <p align="center">
   <samp>
-    > Full stack developer <<br>
+    > Aspiring Game Dev <<br>
     > Interested in low-level programming and implementation of languages <<br>
     > Musician and gamer <<br>
     <br>
