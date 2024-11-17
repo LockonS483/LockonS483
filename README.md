@@ -26,7 +26,7 @@
 <p align="center">
   <samp>
     > Aspiring Game Dev <<br>
-    > Interested in low-level programming and implementation of languages <<br>
+    > Interested in game dev, design, and web. <<br>
     > Musician and gamer <<br>
     <br>
     <img alt="githubstats" src="https://github-readme-stats.vercel.app/api?username=LockonS483">
