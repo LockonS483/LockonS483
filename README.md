@@ -25,8 +25,7 @@
 <h1> </h1>
 <p align="center">
   <samp>
-    > Aspiring Game Dev <<br>
-    > Interested in game dev, design, and web. <<br>
+    > Interested in game dev, reverse engineering, and web. <<br>
     > Musician and gamer <<br>
     <br>
     <img alt="githubstats" src="https://github-readme-stats.vercel.app/api?username=LockonS483">
