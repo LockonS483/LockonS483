@@ -1,6 +1,5 @@
 <h3 align="center" style="color:blue">
-  <samp><b>&gt;-</b>  Hello, World!<br> I am
-    <b>Ben Hou</b>  <b>-&lt;</b>
+  <samp><b>&gt;-</b>  Hello, World! <b>-&lt;</b>
   </samp>
   
 </h3>
